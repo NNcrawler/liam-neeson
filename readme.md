@@ -1,9 +1,18 @@
 # Liam Neeson
-I will find you and I will fix you.
+> I will find you and I will fix you.
+
+Kafka inspector tool. Consume messages from Kafka and deserialize using protobuf.
+
+## How to run
+```sh
+> yarn install
+> yarn start
+```
 
 ## Feature
-- Multiworker
-- Store broken message
-- Pause/Play
-- Fast forward (increase the batch size)
-- Set start offset
+[X] Store broken message
+[X] Inspect deserialized message
+[] Multiworker
+[] Pause/Play
+[] Fast forward (increase the batch size)
+[] Set start offset
