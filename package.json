@@ -1,0 +1,11 @@
+{
+  "name": "liam-neeson",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@odpf/stencil": "^0.1.3",
+    "dotenv": "^10.0.0",
+    "kafkajs": "^1.15.0"
+  }
+}
